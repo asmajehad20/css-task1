@@ -1,0 +1,18 @@
+.icon{
+    color:white;
+    background-color: yellow;
+}
+
+.services{
+    
+    text-align: center;
+}
+
+.service{
+    float:left;
+    width: 33%;
+}
+
+.clear-fix{
+    clear:both;
+}
